@@ -1,0 +1,51 @@
+
+.sneak-main-section {
+    height: 670px;
+    width: 100%;
+    /* border: 1px solid lightgray; */
+    margin-top: 30px;
+    display: flex;
+    gap: 100px;
+}
+
+.big-shoes-image {
+    height: 580px;
+    width: 435px;
+    /* border: 1px solid lightgray; */
+    margin-left: 240px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.big-shoes-image img {
+    height: 450px;
+    width: 435px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.big-shoes-image .mini-images {
+    /* border: 1px solid lightgray; */
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;  
+    margin-top: 10px;
+}
+
+.flextion {
+    border: 2px solid orangered;
+    opacity: 0.5;
+
+}
+
+.sneak-main-section .small-boxes-image {
+    display: flex;
+    gap: 25px;
+}
+
+.small-boxes-image .mini-images img {
+    height: 90px;
+    width: 90px;
+    margin-top: 10px;
+    cursor: pointer;
+}
